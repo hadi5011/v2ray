@@ -1,2 +1,2 @@
 # v2ray
-v2ray,vm,vl,ss,tr
+v2ray.vm.vl.ss.tr
